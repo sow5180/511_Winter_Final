@@ -1,0 +1,20 @@
+---
+title: " Facilitating Semantic Selection in Older Adults Website"
+author: "S.B. Winter"
+date: "February 12, 2017"
+output: html_document
+---
+# Home page
+-About the project
+
+# Background 
+-Background information
+-relevant paper citations
+
+# Workflow
+-Workflow
+
+# Participate
+-Contact information for lab
+
+
